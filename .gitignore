@@ -1,0 +1,13 @@
+# meta
+.vscode
+
+# sd repo
+sd-webui
+stable-diffusion-webui
+
+# flask
+Flask
+
+# ngrok
+ngrok.exe
+API_KEY.txt
